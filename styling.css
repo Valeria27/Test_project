@@ -24,7 +24,7 @@
   right: 0;
   left: 0;
   width: 400px;
-  height: 350px;
+  height: 360px;
   background: #fff;
   border-radius: 4px;
   align-items: center;
@@ -50,7 +50,7 @@ input {
     width: 356px;
     border: #e2e2e2 solid 1px
   }
-p {
+.info-text {
 
     font-family: -webkit-body;
     font-size: small;
@@ -58,7 +58,18 @@ p {
     color: #969a9b;
 }
 .button{
-	width: 120px;
+	padding: 12px;
 	height: 50px;
 	background-color: #24afb2;
+	margin: auto;
+	color: #ffffff;
+	font-size: 20px;
+	border: solid 1px #1d9fa1;
+}
+.benefit-text{
+	color: #aedcdc;
+	font-size: small;
+	font-family: -webkit-body;
+	text-align: center;
+	margin-top: 20px;
 }
